@@ -9,7 +9,7 @@ Pattern Questions :-
     ***** 
 ```
 
-[Code For Pattern 1](https://github.com/Yash-Daxini/Patterns_Solutions/blob/main/Pattern1.java)
+[Code For Pattern 1](https://github.com/ayushrudani/Patterns_Solutions/blob/main/Pattern1.java)
 
 ```text
 
@@ -21,7 +21,7 @@ Pattern Questions :-
 
 ```
 
-[Code For Pattern 2](https://github.com/Yash-Daxini/Patterns_Solutions/blob/main/Pattern2.java)
+[Code For Pattern 2](https://github.com/ayushrudani/Patterns_Solutions/blob/main/Pattern2.java)
 
 ```text
 
@@ -33,7 +33,7 @@ Pattern Questions :-
 
 ```
 
-[Code For Pattern 3](https://github.com/Yash-Daxini/Patterns_Solutions/blob/main/Pattern3.java)
+[Code For Pattern 3](https://github.com/ayushrudani/Patterns_Solutions/blob/main/Pattern3.java)
 
 ```text
 
@@ -45,7 +45,7 @@ Pattern Questions :-
 
 ```
 
-[Code For Pattern 4](https://github.com/Yash-Daxini/Patterns_Solutions/blob/main/Pattern4.java)
+[Code For Pattern 4](https://github.com/ayushrudani/Patterns_Solutions/blob/main/Pattern4.java)
 
 ```text
 
@@ -61,7 +61,7 @@ Pattern Questions :-
 
 ```
 
-[Code For Pattern 5](https://github.com/Yash-Daxini/Patterns_Solutions/blob/main/Pattern5.java)
+[Code For Pattern 5](https://github.com/ayushrudani/Patterns_Solutions/blob/main/Pattern5.java)
 
 ```text
 
@@ -73,7 +73,7 @@ Pattern Questions :-
 
 ```
 
-[Code For Pattern 6](https://github.com/Yash-Daxini/Patterns_Solutions/blob/main/Pattern6.java)
+[Code For Pattern 6](https://github.com/ayushrudani/Patterns_Solutions/blob/main/Pattern6.java)
 
 ```text
 
@@ -85,7 +85,7 @@ Pattern Questions :-
          
 ```
 
-[Code For Pattern 7](https://github.com/Yash-Daxini/Patterns_Solutions/blob/main/Pattern7.java)
+[Code For Pattern 7](https://github.com/ayushrudani/Patterns_Solutions/blob/main/Pattern7.java)
 
 ```text
 
@@ -97,7 +97,7 @@ Pattern Questions :-
 
 ```
 
-[Code For Pattern 8](https://github.com/Yash-Daxini/Patterns_Solutions/blob/main/Pattern8.java)
+[Code For Pattern 8](https://github.com/ayushrudani/Patterns_Solutions/blob/main/Pattern8.java)
 
 ```text
 
@@ -109,7 +109,7 @@ Pattern Questions :-
 
 ```
 
-[Code For Pattern 9](https://github.com/Yash-Daxini/Patterns_Solutions/blob/main/Pattern9.java)
+[Code For Pattern 9](https://github.com/ayushrudani/Patterns_Solutions/blob/main/Pattern9.java)
 
 ```text
 
@@ -121,7 +121,7 @@ Pattern Questions :-
 
 ```
 
-[Code For Pattern 10](https://github.com/Yash-Daxini/Patterns_Solutions/blob/main/Pattern10.java)
+[Code For Pattern 10](https://github.com/ayushrudani/Patterns_Solutions/blob/main/Pattern10.java)
 
 ```text
 
@@ -133,7 +133,7 @@ Pattern Questions :-
 
 ```
 
-[Code For Pattern 11](https://github.com/Yash-Daxini/Patterns_Solutions/blob/main/Pattern11.java)
+[Code For Pattern 11](https://github.com/ayushrudani/Patterns_Solutions/blob/main/Pattern11.java)
 
 ```text
 
@@ -150,7 +150,7 @@ Pattern Questions :-
 
 ```
 
-[Code For Pattern 12](https://github.com/Yash-Daxini/Patterns_Solutions/blob/main/Pattern12.java)
+[Code For Pattern 12](https://github.com/ayushrudani/Patterns_Solutions/blob/main/Pattern12.java)
 
 ```text
 
@@ -162,7 +162,7 @@ Pattern Questions :-
 
 ```
 
-[Code For Pattern 13](https://github.com/Yash-Daxini/Patterns_Solutions/blob/main/Pattern13.java)
+[Code For Pattern 13](https://github.com/ayushrudani/Patterns_Solutions/blob/main/Pattern13.java)
 
 ```text
 
@@ -174,7 +174,7 @@ Pattern Questions :-
          
 ```
 
-[Code For Pattern 14](https://github.com/Yash-Daxini/Patterns_Solutions/blob/main/Pattern14.java)
+[Code For Pattern 14](https://github.com/ayushrudani/Patterns_Solutions/blob/main/Pattern14.java)
 
 ```text
 
@@ -190,7 +190,7 @@ Pattern Questions :-
 
 ```
 
-[Code For Pattern 15](https://github.com/Yash-Daxini/Patterns_Solutions/blob/main/Pattern15.java)
+[Code For Pattern 15](https://github.com/ayushrudani/Patterns_Solutions/blob/main/Pattern15.java)
 
 ```text
 
@@ -203,7 +203,7 @@ Pattern Questions :-
 
 ```
 
-[Code For Pattern 16](https://github.com/Yash-Daxini/Patterns_Solutions/blob/main/Pattern16.java)
+[Code For Pattern 16](https://github.com/ayushrudani/Patterns_Solutions/blob/main/Pattern16.java)
 
 ```text
 
@@ -217,7 +217,7 @@ Pattern Questions :-
 
 ```
 
-[Code For Pattern 17](https://github.com/Yash-Daxini/Patterns_Solutions/blob/main/Pattern17.java)
+[Code For Pattern 17](https://github.com/ayushrudani/Patterns_Solutions/blob/main/Pattern17.java)
 
 ```text
 
@@ -234,7 +234,7 @@ Pattern Questions :-
 
 ```
 
-[Code For Pattern 18](https://github.com/Yash-Daxini/Patterns_Solutions/blob/main/Pattern18.java)
+[Code For Pattern 18](https://github.com/ayushrudani/Patterns_Solutions/blob/main/Pattern18.java)
 
 ```text
 
@@ -251,7 +251,7 @@ Pattern Questions :-
 
 ```
 
-[Code For Pattern 19](https://github.com/Yash-Daxini/Patterns_Solutions/blob/main/Pattern19.java)
+[Code For Pattern 19](https://github.com/ayushrudani/Patterns_Solutions/blob/main/Pattern19.java)
 
 ```text
 
@@ -263,7 +263,7 @@ Pattern Questions :-
 
 ```
 
-[Code For Pattern 20](https://github.com/Yash-Daxini/Patterns_Solutions/blob/main/Pattern20.java)
+[Code For Pattern 20](https://github.com/ayushrudani/Patterns_Solutions/blob/main/Pattern20.java)
 
 ```text
 
@@ -275,7 +275,7 @@ Pattern Questions :-
        
 ```
 
-[Code For Pattern 21](https://github.com/Yash-Daxini/Patterns_Solutions/blob/main/Pattern21.java)
+[Code For Pattern 21](https://github.com/ayushrudani/Patterns_Solutions/blob/main/Pattern21.java)
 
 ```text
 
@@ -287,7 +287,7 @@ Pattern Questions :-
        
 ```
 
-[Code For Pattern 22](https://github.com/Yash-Daxini/Patterns_Solutions/blob/main/Pattern22.java)
+[Code For Pattern 22](https://github.com/ayushrudani/Patterns_Solutions/blob/main/Pattern22.java)
 
 ```text
 
@@ -312,7 +312,7 @@ Pattern Questions :-
 
 ```
 
-[Code For Pattern 24](https://github.com/Yash-Daxini/Patterns_Solutions/blob/main/Pattern24.java)
+[Code For Pattern 24](https://github.com/ayushrudani/Patterns_Solutions/blob/main/Pattern24.java)
 
 ```text
 
@@ -324,7 +324,7 @@ Pattern Questions :-
 
 ```
 
-[Code For Pattern 25](https://github.com/Yash-Daxini/Patterns_Solutions/blob/main/Pattern25.java)
+[Code For Pattern 25](https://github.com/ayushrudani/Patterns_Solutions/blob/main/Pattern25.java)
 
 ```text
 
@@ -337,7 +337,7 @@ Pattern Questions :-
 
 ```
 
-[Code For Pattern 26](https://github.com/Yash-Daxini/Patterns_Solutions/blob/main/Pattern26.java)
+[Code For Pattern 26](https://github.com/ayushrudani/Patterns_Solutions/blob/main/Pattern26.java)
 
 ```text
 
@@ -348,7 +348,7 @@ Pattern Questions :-
 
 ```
 
-[Code For Pattern 27](https://github.com/Yash-Daxini/Patterns_Solutions/blob/main/Pattern27.java)
+[Code For Pattern 27](https://github.com/ayushrudani/Patterns_Solutions/blob/main/Pattern27.java)
 
 ```text
 
@@ -364,7 +364,7 @@ Pattern Questions :-
 
 ```
 
-[Code For Pattern 28](https://github.com/Yash-Daxini/Patterns_Solutions/blob/main/Pattern28.java)
+[Code For Pattern 28](https://github.com/ayushrudani/Patterns_Solutions/blob/main/Pattern28.java)
 
 ```text
 
@@ -381,7 +381,7 @@ Pattern Questions :-
 
 ```
 
-[Code For Pattern 29](https://github.com/Yash-Daxini/Patterns_Solutions/blob/main/Pattern29.java)
+[Code For Pattern 29](https://github.com/ayushrudani/Patterns_Solutions/blob/main/Pattern29.java)
 
 ```text
 
@@ -393,7 +393,7 @@ Pattern Questions :-
 
 ```
 
-[Code For Pattern 30](https://github.com/Yash-Daxini/Patterns_Solutions/blob/main/Pattern30.java)
+[Code For Pattern 30](https://github.com/ayushrudani/Patterns_Solutions/blob/main/Pattern30.java)
 
 ```text
 
@@ -407,7 +407,7 @@ Pattern Questions :-
 
 ```
 
-[Code For Pattern 31](https://github.com/Yash-Daxini/Patterns_Solutions/blob/main/Pattern31.java)
+[Code For Pattern 31](https://github.com/ayushrudani/Patterns_Solutions/blob/main/Pattern31.java)
 
 ```text
 
@@ -419,7 +419,7 @@ Pattern Questions :-
 
 ```
 
-[Code For Pattern 32](https://github.com/Yash-Daxini/Patterns_Solutions/blob/main/Pattern32.java)
+[Code For Pattern 32](https://github.com/ayushrudani/Patterns_Solutions/blob/main/Pattern32.java)
 
 ```text
 
@@ -431,7 +431,7 @@ Pattern Questions :-
      
 ```
 
-[Code For Pattern 33](https://github.com/Yash-Daxini/Patterns_Solutions/blob/main/Pattern33.java)
+[Code For Pattern 33](https://github.com/ayushrudani/Patterns_Solutions/blob/main/Pattern33.java)
 
 ```text
      
@@ -443,7 +443,7 @@ Pattern Questions :-
        
 ```
 
-[Code For Pattern 34](https://github.com/Yash-Daxini/Patterns_Solutions/blob/main/Pattern34.java)
+[Code For Pattern 34](https://github.com/ayushrudani/Patterns_Solutions/blob/main/Pattern34.java)
 
 ```text
        
@@ -454,4 +454,4 @@ Pattern Questions :-
        
 ```
 
-[Code For Pattern 35](https://github.com/Yash-Daxini/Patterns_Solutions/blob/main/Pattern35.java)
+[Code For Pattern 35](https://github.com/ayushrudani/Patterns_Solutions/blob/main/Pattern35.java)
